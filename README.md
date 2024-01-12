@@ -1,1 +1,1 @@
-# smartling.coinbase.com
+# https://compute-service.crypto.coinbase.com/
